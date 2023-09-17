@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+streamlit
+openpyxl
+plotly
+streamlit
+openai
+pytube
+youtube_dl
+streamlit-extras
