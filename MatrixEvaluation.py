@@ -7,6 +7,7 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
 
+
 LEVELS = ['No knowledge', 'Knows but no practice', 'Can do with help', 'Can do alone', 'Can teach others', 'Expert']
 TARGETS = {
     'MX Technitian Level 1': 1,
