@@ -1,4 +1,4 @@
-' 1 - Control Device: Keyence Auto ID Navigator (Barcode Reader): Autoconfigure, backup and download',
+'1 - Control Device: Keyence Auto ID Navigator (Barcode Reader): Autoconfigure, backup and download',
 ' 2 - Control Device: Roller controllers (Function, troubleshooting)',
 ' 3 - Control Device: LTU States, function, troubleshooting',
 ' 4 - Control Device: Kistler press(Function, troubleshooting)',
