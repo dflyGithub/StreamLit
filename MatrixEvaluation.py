@@ -24,7 +24,7 @@ last_submitted_name = None  # Keep track of the last name submitted
 @st.cache_data 
 def get_skills():
     # Fetching the skills list from the GitHub raw URL
-    url = "https://raw.githubusercontent.com/eponce92/Streamlit/main/skills_list.txt"
+    url = "https://raw.githubusercontent.com/dflyGithub/StreamLit/main/skill_list.txt"
     response = requests.get(url)
     skills = response.text.split(",\n")
     return [skill.strip() for skill in skills]
